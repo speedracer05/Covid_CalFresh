@@ -1,0 +1,44 @@
+1. Scope: Correlation of covid, (# unemployment) and rise of SNAP overtime
+2. Open questions
+	a. What is the timeframe (12-months)
+	b. Do we want to keep it specific to CA
+	c. Identify the datasets that we want to use; CDC, EDD, USDA, 
+	d. Roles and responsibilities
+	e. # What is the story we want to paint
+	f. What information we need to display
+	g. What are the timelines/milestones
+	h. What visualization do we use to tell the story
+	i. # Do we want to pull in demographic information
+	j. Perhaps starting with a wide-view, nationally, then zoom into a county
+	k. See what areas/city has the largest covid, snap and unemployement.
+	l. # Perhaps add income demographic. 
+	m. # County color tier system.
+
+3. Possible data to use:
+	a. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
+	b. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
+	c # https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
+	d. https://data.ca.gov/group/covid-19
+	e. https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+	f. https://github.com/nytimes/covid-19-data
+	g. https://covidtracking.com/
+
+4. Data set selected:
+	a. https://www.cdss.ca.gov/inforesources/data-portal/research-and-data/calfresh-data-dashboard
+	b. https://covidtracking.com/data
+	c. https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv
+
+5. Presentation, stay high-level; what is the problem; what is the conclusion; want to understand the data (overview)
+6. Leave today with plan for the data that we want to capture. Have data (extracts) before Sat class.
+
+Next Actions
+1. Upload dataset into 
+	(DeJuan) 
+	(Jackson)
+2. Upload notes (John)
+3. Extract relevant data
+	a. 7pm. Fri. DeJuan: County, Month, Date, unemployment, CalFresh Household, CalFresh Persons,  EBT_FSP_dollar, EBT_SNB_dollar
+	b. 7pm. Fri. Jackson: date, state, death, death increase, positive
+	c. 7pm. Fri. Siddharth: date, county, state, cases,  deaths, confirmed cases
+	d. 10pm. John: merge the data sets
+	
