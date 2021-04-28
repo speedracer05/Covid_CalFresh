@@ -16,8 +16,8 @@
 4. Visualization
 	a. Show counties with the largest covid, snap and unemployement.
 	b. What is the story we want to paint
-		b1. Show top 5, worst hit, least affected counties
-		b2. )
+		b1. Show top 5 (infections), worst hit (infection rate), least affected counties 
+		b2. Index (B1) 
 	c. What information we need to display
 		f1. Bargraph
 		f2. Heatmap/geo-code
