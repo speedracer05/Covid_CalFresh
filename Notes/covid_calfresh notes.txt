@@ -1,18 +1,33 @@
-1. Scope: Correlation of covid, (# unemployment) and rise of SNAP overtime
-2. Open questions
-	a. What is the timeframe (12-months)
-	b. Do we want to keep it specific to CA
-	c. Identify the datasets that we want to use; CDC, EDD, USDA, 
-	d. Roles and responsibilities
-	e. # What is the story we want to paint
-	f. What information we need to display
-	g. What are the timelines/milestones
-	h. What visualization do we use to tell the story
-	i. # Do we want to pull in demographic information
-	j. Perhaps starting with a wide-view, nationally, then zoom into a county
-	k. See what areas/city has the largest covid, snap and unemployement.
-	l. # Perhaps add income demographic. 
-	m. # County color tier system.
+1. Scope: Correlation of covid, unemployment and rise of SNAP overtime
+	1a. Supposition: As Covid infection rates increased, so did CalFresh enrollement
+	1b. Timeframe: Jan 2020 to Mar 2021
+	1c. Geography CA
+	1d. Completion by Saturday, May 1st0
+
+2. Datasets Selected
+	2a. CalFresh. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
+	2b. US_Counties. https://github.com/nytimes/covid-19-data
+	2c. US Census. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+
+3. Approach
+	3a. Story. How did Covid affect the various counties
+	3b. Starting with a wide-view, nationally, then zoom into county
+
+4. Visualization
+	a. Show counties with the largest covid, snap and unemployement.
+	b. What is the story we want to paint
+		b1. Show top 5 (infections), worst hit (infection rate), least affected counties 
+		b2. Index (B1) 
+	c. What information we need to display
+		f1. Bargraph
+		f2. Heatmap/geo-code
+		f3. Line graph
+
+5. Time Permitting Options
+	a. # Add income demographic. 
+	b. # County color tier system.
+6. Open Questions
+	a. Verify Requirements
 
 3. Possible data to use:
 	a. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
@@ -22,23 +37,46 @@
 	e. https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
 	f. https://github.com/nytimes/covid-19-data
 	g. https://covidtracking.com/
+	h. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 
-4. Data set selected:
-	a. https://www.cdss.ca.gov/inforesources/data-portal/research-and-data/calfresh-data-dashboard
-	b. https://covidtracking.com/data
-	c. https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv
 
-5. Presentation, stay high-level; what is the problem; what is the conclusion; want to understand the data (overview)
-6. Leave today with plan for the data that we want to capture. Have data (extracts) before Sat class.
 
-Next Actions
-1. Upload dataset into 
-	(DeJuan) 
-	(Jackson)
-2. Upload notes (John)
-3. Extract relevant data
-	a. 7pm. Fri. DeJuan: County, Month, Date, unemployment, CalFresh Household, CalFresh Persons,  EBT_FSP_dollar, EBT_SNB_dollar
-	b. 7pm. Fri. Jackson: date, state, death, death increase, positive
-	c. 7pm. Fri. Siddharth: date, county, state, cases,  deaths, confirmed cases
-	d. 10pm. John: merge the data sets
-	
+Brainstorm Questions. 
+
+1. Presentation, stay high-level; what is the problem; what is the conclusion; want to understand the data (overview)
+
+Next Actions Check-in Monday. Slack
+1. Data clean up. CalFresh Date "strip month-", persons, isolate to 2020, drop unnecessary columns (DeJuan)
+2. Data clean up. Counties, "3 columns month, date and year" and consolidate days into months, Isolate to CA, drop FIPS column (Jackson)
+3. Data cleanup. Census data. Drop unnecessary columns, filter State to CA only. (Siddarth)
+4. Review requirements and place into file note (John)
+5. Add Suppusition info. Merge by date, check for nulls, (John)
+
+What Comparisons are needed to create dataframes/groups?
+1. Compare separate data sets (CA agg)
+	1a. Deaths month over
+	1b. Unemployment month over month month
+	1c. CalFresh spend month over month
+	1d. CalFresh people month over month
+2. Compare separate data sets (top 5 counties)
+	a.
+	b.
+	c.
+	d.
+3. Correlations
+	a. Unemployment rate, CalFresh people, Covid Cases
+	b. Correlation of 5 highly impacted ares over time
+	c. How the Covid affected counties with high population, in terms of CalFresh uptake
+4. Visualization of
+	a. Heat map of highest population vs Covid cases to see if it lines up.
+	b. Heat map unemployment rate, correlation to CalFresh enrollment.
+
+5. Suppsition of Data
+	a. Increase in unemployment in EDD kept increase of CalFresh in check
+	b. Larger density translates to larger percentage of deaths
+	c. ##Prj 2. Medicade/Medical impact
+	d. ?Is there a higher impact of infection per person in rural vs dense population areas
+
+
+
+
