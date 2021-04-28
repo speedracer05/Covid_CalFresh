@@ -1,4 +1,4 @@
-,date,county,state,cases,deaths,Day,Month,Year
+,Date,County,State,Cases,Deaths,Day,Month,Year
 0,2020-01-25,Orange,California,1,0.0,25,1,2020
 1,2020-01-26,Los Angeles,California,1,0.0,26,1,2020
 2,2020-01-26,Orange,California,1,0.0,26,1,2020
