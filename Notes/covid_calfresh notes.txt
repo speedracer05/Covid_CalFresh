@@ -1,5 +1,8 @@
 1. Scope: Correlation of covid, unemployment and rise of SNAP overtime
 	1a. Supposition: As Covid infection rates increased, so did CalFresh enrollement
+		i. What are the top 5 infected counties
+		ii. 
+
 	1b. Timeframe: Jan 2020 to Mar 2021
 	1c. Geography CA
 	1d. Completion by Saturday, May 1st0
@@ -17,7 +20,10 @@
 	a. Show counties with the largest covid, snap and unemployement.
 	b. What is the story we want to paint
 		b1. Show top 5 (infections), worst hit (infection rate), least affected counties 
-		b2. Index (B1) 
+		b2. Index (B1), Series Months 1-15 (jan 2020 - mar 2021
+		b3. Track infection rates as function of population. Hypothesis. Rural areas may have high rates --not following guidelines
+		b4. Heatmap. Infection rates by counties
+		b5. 
 	c. What information we need to display
 		f1. Bargraph
 		f2. Heatmap/geo-code
@@ -26,6 +32,7 @@
 5. Time Permitting Options
 	a. # Add income demographic. 
 	b. # County color tier system.
+	c. Use Census API
 6. Open Questions
 	a. Verify Requirements
 
@@ -44,6 +51,8 @@
 Brainstorm Questions. 
 
 1. Presentation, stay high-level; what is the problem; what is the conclusion; want to understand the data (overview)
+	a. During presentation, need to discuss the datasets explored
+	b. What we did with the data
 
 Next Actions Check-in Monday. Slack
 1. Data clean up. CalFresh Date "strip month-", persons, isolate to 2020, drop unnecessary columns (DeJuan)
