@@ -1,12 +1,13 @@
 1. Scope: Correlation of covid, unemployment and rise of SNAP overtime
 	1a. Questions
-		i. As Covid infection rates increased, so did CalFresh enrollement
-		ii. What are the top 5 counties with the worst infection rates?
-		iii. What is the worst affected county?
-		iv. What is the least affected county
-		v. What is the correlation between infection rates and rural populations that may not wear masks?
-		vi. What is the worst covid infection rate as a percentage of population?
-		vii. Show the correlation between covid and SNAP enrollement
+		i. J. As Covid infection rates increased, so did CalFresh enrollement. Type. Line Graph
+		ii. J. What are the top 5 counties with the worst infection rates? Type. Bar Graph. Heat Map.
+		iii. S. What is the worst affected county; covid, snap, unemployment? Type. Area Chart
+		iv. S. What is the least affected county. Type. Line Graph. Type. Area Chart
+		v. D. Correlation bwt infection rates and rural populations (infer non-masks use). Type. Box-Whisker
+		vi. D. What is the worst covid infection rate as a percentage of population? Type. Bar Chart
+		vii. JAC. Heat map CalFresh enrollment vs
+		viii. JAC. Conclusion. Single slideShow the correlation between covid and SNAP enrollement
 
 	1b. Timeframe: Jan 2020 to Mar 2021
 	1c. Geography CA
