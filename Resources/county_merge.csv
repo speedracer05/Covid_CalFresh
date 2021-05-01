@@ -1,0 +1,816 @@
+,County,Year,Month,Cases,Deaths
+0,Alameda,2020,April,30470,988
+1,Alameda,2020,August,463338,6785
+2,Alameda,2020,December,1247644,17659
+3,Alameda,2020,July,268879,4909
+4,Alameda,2020,June,136574,3458
+5,Alameda,2020,March,2787,39
+6,Alameda,2020,May,75140,2553
+7,Alameda,2020,November,791089,14641
+8,Alameda,2020,October,700003,13729
+9,Alameda,2020,September,603932,10426
+10,Alameda,2021,April,1862307,31941
+11,Alameda,2021,February,2184907,31254
+12,Alameda,2021,January,1999687,24618
+13,Alameda,2021,March,2547164,41503
+14,Alpine,2020,April,41,0
+15,Alpine,2020,August,62,0
+16,Alpine,2020,December,1854,0
+17,Alpine,2020,July,47,0
+18,Alpine,2020,June,41,0
+19,Alpine,2020,March,2,0
+20,Alpine,2020,May,61,0
+21,Alpine,2020,November,569,0
+22,Alpine,2020,October,90,0
+23,Alpine,2020,September,60,0
+24,Alpine,2021,April,1871,0
+25,Alpine,2021,February,2104,0
+26,Alpine,2021,January,2185,0
+27,Alpine,2021,March,2514,0
+28,Amador,2020,April,158,0
+29,Amador,2020,August,6115,277
+30,Amador,2020,December,46633,617
+31,Amador,2020,July,1673,0
+32,Amador,2020,June,369,0
+33,Amador,2020,March,12,0
+34,Amador,2020,May,254,0
+35,Amador,2020,November,12516,480
+36,Amador,2020,October,9644,496
+37,Amador,2020,September,8333,473
+38,Amador,2021,April,79198,1005
+39,Amador,2021,February,94421,1041
+40,Amador,2021,January,89849,888
+41,Amador,2021,March,108693,1336
+42,Butte,2020,April,431,0
+43,Butte,2020,August,43953,419
+44,Butte,2020,December,175254,2281
+45,Butte,2020,July,15967,138
+46,Butte,2020,June,2813,36
+47,Butte,2020,March,50,0
+48,Butte,2020,May,826,0
+49,Butte,2020,November,105379,1703
+50,Butte,2020,October,92999,1527
+51,Butte,2020,September,78378,990
+52,Butte,2021,April,252358,4273
+53,Butte,2021,February,298346,4232
+54,Butte,2021,January,280364,3676
+55,Butte,2021,March,345602,5571
+56,Calaveras,2020,April,279,0
+57,Calaveras,2020,August,5434,41
+58,Calaveras,2020,December,25150,682
+59,Calaveras,2020,July,2480,11
+60,Calaveras,2020,June,744,0
+61,Calaveras,2020,March,22,0
+62,Calaveras,2020,May,415,0
+63,Calaveras,2020,November,12150,637
+64,Calaveras,2020,October,10384,520
+65,Calaveras,2020,September,8926,281
+66,Calaveras,2021,April,44683,1100
+67,Calaveras,2021,February,51696,768
+68,Calaveras,2021,January,47031,699
+69,Calaveras,2021,March,60129,1523
+70,Colusa,2020,April,83,0
+71,Colusa,2020,August,12393,151
+72,Colusa,2020,December,31997,232
+73,Colusa,2020,July,5377,26
+74,Colusa,2020,June,327,0
+75,Colusa,2020,March,5,0
+76,Colusa,2020,May,115,0
+77,Colusa,2020,November,18695,180
+78,Colusa,2020,October,16922,186
+79,Colusa,2020,September,14998,180
+80,Colusa,2021,April,48043,352
+81,Colusa,2021,February,57901,332
+82,Colusa,2021,January,52325,279
+83,Colusa,2021,March,66758,449
+84,Contra Costa,2020,April,18210,457
+85,Contra Costa,2020,August,340579,4747
+86,Contra Costa,2020,December,1003476,9012
+87,Contra Costa,2020,July,166351,2939
+88,Contra Costa,2020,June,62840,1576
+89,Contra Costa,2020,March,1739,21
+90,Contra Costa,2020,May,35828,1023
+91,Contra Costa,2020,November,642279,7627
+92,Contra Costa,2020,October,556350,7154
+93,Contra Costa,2020,September,465183,5853
+94,Contra Costa,2021,April,1460402,17101
+95,Contra Costa,2021,February,1691032,17086
+96,Contra Costa,2021,January,1560379,13418
+97,Contra Costa,2021,March,1988267,22610
+98,Del Norte,2020,April,61,0
+99,Del Norte,2020,August,3329,15
+100,Del Norte,2020,December,17629,48
+101,Del Norte,2020,July,2122,0
+102,Del Norte,2020,June,1437,0
+103,Del Norte,2020,May,486,0
+104,Del Norte,2020,November,7288,30
+105,Del Norte,2020,October,5242,31
+106,Del Norte,2020,September,3973,30
+107,Del Norte,2021,April,27554,143
+108,Del Norte,2021,February,26218,113
+109,Del Norte,2021,January,26022,68
+110,Del Norte,2021,March,33298,174
+111,El Dorado,2020,April,1015,0
+112,El Dorado,2020,August,25572,53
+113,El Dorado,2020,December,126802,298
+114,El Dorado,2020,July,12123,12
+115,El Dorado,2020,June,3806,0
+116,El Dorado,2020,March,90,0
+117,El Dorado,2020,May,2031,0
+118,El Dorado,2020,November,52407,120
+119,El Dorado,2020,October,39283,124
+120,El Dorado,2020,September,31634,93
+121,El Dorado,2021,April,210497,2332
+122,El Dorado,2021,February,244711,2513
+123,El Dorado,2021,January,224593,1384
+124,El Dorado,2021,March,286495,3195
+125,Fresno,2020,April,8629,151
+126,Fresno,2020,August,627298,6242
+127,Fresno,2020,December,1558495,17768
+128,Fresno,2020,July,299118,2996
+129,Fresno,2020,June,90237,1702
+130,Fresno,2020,March,368,0
+131,Fresno,2020,May,36149,537
+132,Fresno,2020,November,1037439,13879
+133,Fresno,2020,October,927640,13053
+134,Fresno,2020,September,815769,10302
+135,Fresno,2021,April,2202605,35930
+136,Fresno,2021,February,2591970,36504
+137,Fresno,2021,January,2448686,27687
+138,Fresno,2021,March,3020883,47434
+139,Glenn,2020,April,107,0
+140,Glenn,2020,August,11905,84
+141,Glenn,2020,December,37610,376
+142,Glenn,2020,July,6007,8
+143,Glenn,2020,June,1298,0
+144,Glenn,2020,March,6,0
+145,Glenn,2020,May,293,0
+146,Glenn,2020,November,23435,160
+147,Glenn,2020,October,19548,93
+148,Glenn,2020,September,15672,90
+149,Glenn,2021,April,62793,550
+150,Glenn,2021,February,72749,644
+151,Glenn,2021,January,65235,581
+152,Glenn,2021,March,85437,688
+153,Humboldt,2020,April,1483,0
+154,Humboldt,2020,August,9726,124
+155,Humboldt,2020,December,41318,424
+156,Humboldt,2020,February,10,0
+157,Humboldt,2020,July,5644,124
+158,Humboldt,2020,June,3405,119
+159,Humboldt,2020,March,152,0
+160,Humboldt,2020,May,2340,26
+161,Humboldt,2020,November,20891,287
+162,Humboldt,2020,October,16875,267
+163,Humboldt,2020,September,13833,167
+164,Humboldt,2021,April,78168,804
+165,Humboldt,2021,February,84482,894
+166,Humboldt,2021,January,70738,764
+167,Humboldt,2021,March,104345,1062
+168,Imperial,2020,April,4546,102
+169,Imperial,2020,August,312293,7980
+170,Imperial,2020,December,602746,11889
+171,Imperial,2020,July,253765,4605
+172,Imperial,2020,June,126957,1560
+173,Imperial,2020,March,193,0
+174,Imperial,2020,May,27740,489
+175,Imperial,2020,November,431137,10408
+176,Imperial,2020,October,385739,10269
+177,Imperial,2020,September,341353,9207
+178,Imperial,2021,April,611449,15725
+179,Imperial,2021,February,746251,16096
+180,Imperial,2021,January,764163,14525
+181,Imperial,2021,March,841862,21060
+182,Inyo,2020,April,453,8
+183,Inyo,2020,August,3425,187
+184,Inyo,2020,December,13239,558
+185,Inyo,2020,July,1135,31
+186,Inyo,2020,June,720,30
+187,Inyo,2020,March,37,0
+188,Inyo,2020,May,620,31
+189,Inyo,2020,November,7895,467
+190,Inyo,2020,October,6549,465
+191,Inyo,2020,September,5287,420
+192,Inyo,2021,April,30487,791
+193,Inyo,2021,February,32776,921
+194,Inyo,2021,January,25531,831
+195,Inyo,2021,March,41531,1109
+196,Kern,2020,April,15562,95
+197,Kern,2020,August,796406,6449
+198,Kern,2020,December,1693082,14704
+199,Kern,2020,July,306526,3226
+200,Kern,2020,June,102961,1686
+201,Kern,2020,March,407,5
+202,Kern,2020,May,46703,708
+203,Kern,2020,November,1120450,13075
+204,Kern,2020,October,1031993,12510
+205,Kern,2020,September,928795,9992
+206,Kern,2021,April,2358948,28703
+207,Kern,2021,February,2791078,19964
+208,Kern,2021,January,2577942,17421
+209,Kern,2021,March,3255435,33639
+210,Kings,2020,April,848,20
+211,Kings,2020,August,164966,1990
+212,Kings,2020,December,428860,3131
+213,Kings,2020,July,101251,1290
+214,Kings,2020,June,55394,366
+215,Kings,2020,March,11,0
+216,Kings,2020,May,13404,56
+217,Kings,2020,November,290101,2589
+218,Kings,2020,October,251665,2553
+219,Kings,2020,September,214892,2312
+220,Kings,2021,April,499785,5357
+221,Kings,2021,February,603232,5731
+222,Kings,2021,January,579454,4166
+223,Kings,2021,March,693805,7251
+224,Lake,2020,April,127,0
+225,Lake,2020,August,8058,70
+226,Lake,2020,December,41845,673
+227,Lake,2020,July,4137,28
+228,Lake,2020,June,1061,0
+229,Lake,2020,May,349,0
+230,Lake,2020,November,23904,533
+231,Lake,2020,October,19991,429
+232,Lake,2020,September,13026,237
+233,Lake,2021,April,74312,946
+234,Lake,2021,February,84264,1037
+235,Lake,2021,January,74006,877
+236,Lake,2021,March,100565,1313
+237,Lassen,2020,August,21161,0
+238,Lassen,2020,December,108607,175
+239,Lassen,2020,July,13117,0
+240,Lassen,2020,June,1306,0
+241,Lassen,2020,May,39,0
+242,Lassen,2020,November,36664,43
+243,Lassen,2020,October,23449,20
+244,Lassen,2020,September,21880,0
+245,Lassen,2021,April,124590,22
+246,Lassen,2021,February,154463,516
+247,Lassen,2021,January,157949,405
+248,Lassen,2021,March,174603,284
+249,Los Angeles,2020,April,362305,14801
+250,Los Angeles,2020,August,6796228,163012
+251,Los Angeles,2020,December,17784563,268598
+252,Los Angeles,2020,February,29,0
+253,Los Angeles,2020,January,6,0
+254,Los Angeles,2020,July,4534053,123135
+255,Los Angeles,2020,June,2295011,87756
+256,Los Angeles,2020,March,16149,268
+257,Los Angeles,2020,May,1172311,55009
+258,Los Angeles,2020,November,10393607,219720
+259,Los Angeles,2020,October,8928603,212261
+260,Los Angeles,2020,September,7694092,187418
+261,Los Angeles,2021,April,26979325,516496
+262,Los Angeles,2021,February,32591439,535599
+263,Los Angeles,2021,January,30373784,420373
+264,Los Angeles,2021,March,37517367,697121
+265,Madera,2020,April,1035,58
+266,Madera,2020,August,90831,1378
+267,Madera,2020,December,256493,3301
+268,Madera,2020,July,37365,397
+269,Madera,2020,June,7998,113
+270,Madera,2020,March,138,5
+271,Madera,2020,May,2314,62
+272,Madera,2020,November,166813,2363
+273,Madera,2020,October,150313,2245
+274,Madera,2020,September,126636,1800
+275,Madera,2021,April,355466,5215
+276,Madera,2021,February,420971,5439
+277,Madera,2021,January,396544,4367
+278,Madera,2021,March,489321,6933
+279,Marin,2020,April,5377,297
+280,Marin,2020,August,175600,2565
+281,Marin,2020,December,271608,4157
+282,Marin,2020,February,4,0
+283,Marin,2020,July,115998,1110
+284,Marin,2020,June,30320,523
+285,Marin,2020,March,850,8
+286,Marin,2020,May,10084,429
+287,Marin,2020,November,222838,3830
+288,Marin,2020,October,215849,3856
+289,Marin,2020,September,195100,3173
+290,Marin,2021,April,302036,4937
+291,Marin,2021,February,356823,5189
+292,Marin,2021,January,349748,4741
+293,Marin,2021,March,415482,6550
+294,Mariposa,2020,April,5,0
+295,Mariposa,2020,August,2020,62
+296,Mariposa,2020,December,5803,117
+297,Mariposa,2020,July,1163,37
+298,Mariposa,2020,June,550,30
+299,Mariposa,2020,May,463,17
+300,Mariposa,2020,November,2965,60
+301,Mariposa,2020,October,2410,62
+302,Mariposa,2020,September,2239,60
+303,Mariposa,2021,April,9184,154
+304,Mariposa,2021,February,10785,168
+305,Mariposa,2021,January,10174,131
+306,Mariposa,2021,March,12415,217
+307,Mendocino,2020,April,177,0
+308,Mendocino,2020,August,16377,386
+309,Mendocino,2020,December,64480,758
+310,Mendocino,2020,July,5516,63
+311,Mendocino,2020,June,1505,0
+312,Mendocino,2020,March,27,0
+313,Mendocino,2020,May,550,0
+314,Mendocino,2020,November,40167,655
+315,Mendocino,2020,October,33439,644
+316,Mendocino,2020,September,24836,531
+317,Mendocino,2021,April,87387,1028
+318,Mendocino,2021,February,103117,1140
+319,Mendocino,2021,January,94433,1010
+320,Mendocino,2021,March,120444,1396
+321,Merced,2020,April,2137,72
+322,Merced,2020,August,200907,2674
+323,Merced,2020,December,482707,6634
+324,Merced,2020,July,75411,597
+325,Merced,2020,June,15661,246
+326,Merced,2020,March,47,0
+327,Merced,2020,May,6417,153
+328,Merced,2020,November,319652,5113
+329,Merced,2020,October,288593,4698
+330,Merced,2020,September,258276,3932
+331,Merced,2021,April,682812,9840
+332,Merced,2021,February,782274,10573
+333,Merced,2021,January,722325,9337
+334,Merced,2021,March,927613,13106
+335,Modoc,2020,August,154,0
+336,Modoc,2020,December,5289,2
+337,Modoc,2020,July,6,0
+338,Modoc,2020,November,2097,0
+339,Modoc,2020,October,846,0
+340,Modoc,2020,September,619,0
+341,Modoc,2021,April,7752,66
+342,Modoc,2021,February,8980,112
+343,Modoc,2021,January,8492,82
+344,Modoc,2021,March,10526,105
+345,Mono,2020,April,664,30
+346,Mono,2020,August,4868,44
+347,Mono,2020,December,21543,103
+348,Mono,2020,July,2339,31
+349,Mono,2020,June,1139,30
+350,Mono,2020,March,65,1
+351,Mono,2020,May,987,31
+352,Mono,2020,November,12989,72
+353,Mono,2020,October,5418,62
+354,Mono,2020,September,4910,60
+355,Mono,2021,April,27486,88
+356,Mono,2021,February,32842,112
+357,Mono,2021,January,31814,124
+358,Mono,2021,March,37803,124
+359,Monterey,2020,April,3531,97
+360,Monterey,2020,August,195080,1360
+361,Monterey,2020,December,652831,5023
+362,Monterey,2020,July,94160,596
+363,Monterey,2020,June,31080,345
+364,Monterey,2020,March,288,12
+365,Monterey,2020,May,10386,225
+366,Monterey,2020,November,396511,3249
+367,Monterey,2020,October,339393,2583
+368,Monterey,2020,September,274665,1955
+369,Monterey,2021,April,949399,7715
+370,Monterey,2021,February,1155247,8556
+371,Monterey,2021,January,1071093,7623
+372,Monterey,2021,March,1321361,10395
+373,Napa,2020,April,1263,58
+374,Napa,2020,August,37338,350
+375,Napa,2020,December,137733,724
+376,Napa,2020,February,4,0
+377,Napa,2020,July,18297,171
+378,Napa,2020,June,5997,104
+379,Napa,2020,March,105,1
+380,Napa,2020,May,2809,83
+381,Napa,2020,November,75948,500
+382,Napa,2020,October,57767,437
+383,Napa,2020,September,47338,390
+384,Napa,2021,April,210888,1736
+385,Napa,2021,February,245979,1753
+386,Napa,2021,January,222839,1251
+387,Napa,2021,March,285818,2346
+388,Nevada,2020,April,1050,28
+389,Nevada,2020,August,11682,75
+390,Nevada,2020,December,64769,976
+391,Nevada,2020,July,6240,31
+392,Nevada,2020,June,2090,30
+393,Nevada,2020,March,101,0
+394,Nevada,2020,May,1271,31
+395,Nevada,2020,November,27308,270
+396,Nevada,2020,October,18134,243
+397,Nevada,2020,September,14901,170
+398,Nevada,2021,April,96816,1645
+399,Nevada,2021,February,105397,2072
+400,Nevada,2021,January,96150,2031
+401,Nevada,2021,March,127941,2398
+402,Orange,2020,April,43117,778
+403,Orange,2020,August,1335540,25028
+404,Orange,2020,December,3642913,53311
+405,Orange,2020,February,29,0
+406,Orange,2020,January,7,0
+407,Orange,2020,July,837060,14436
+408,Orange,2020,June,281375,7088
+409,Orange,2020,March,3229,23
+410,Orange,2020,May,133479,2939
+411,Orange,2020,November,2069168,45880
+412,Orange,2020,October,1813259,42755
+413,Orange,2020,September,1572747,33474
+414,Orange,2021,April,5896029,106405
+415,Orange,2021,February,7162074,100000
+416,Orange,2021,January,6634066,73122
+417,Orange,2021,March,8183418,137517
+418,Placer,2020,April,3734,174
+419,Placer,2020,August,77671,812
+420,Placer,2020,December,315937,3042
+421,Placer,2020,July,39040,373
+422,Placer,2020,June,12588,283
+423,Placer,2020,March,510,31
+424,Placer,2020,May,5476,266
+425,Placer,2020,November,161668,1914
+426,Placer,2020,October,121551,1649
+427,Placer,2020,September,100668,1193
+428,Placer,2021,April,472913,6153
+429,Placer,2021,February,539163,6169
+430,Placer,2021,January,513455,5210
+431,Placer,2021,March,632017,7571
+432,Plumas,2020,April,106,0
+433,Plumas,2020,August,993,0
+434,Plumas,2020,December,9585,7
+435,Plumas,2020,July,489,0
+436,Plumas,2020,June,144,0
+437,Plumas,2020,March,1,0
+438,Plumas,2020,May,126,0
+439,Plumas,2020,November,3996,0
+440,Plumas,2020,October,1709,0
+441,Plumas,2020,September,1322,0
+442,Plumas,2021,April,14646,88
+443,Plumas,2021,February,16854,168
+444,Plumas,2021,January,15148,151
+445,Plumas,2021,March,19961,148
+446,Riverside,2020,April,65312,2056
+447,Riverside,2020,August,1423782,27219
+448,Riverside,2020,December,4090231,51802
+449,Riverside,2020,July,879941,17792
+450,Riverside,2020,June,356709,11814
+451,Riverside,2020,March,1771,100
+452,Riverside,2020,May,178720,7791
+453,Riverside,2020,November,2297444,41300
+454,Riverside,2020,October,1970813,39301
+455,Riverside,2020,September,1682397,33825
+456,Riverside,2021,April,6519225,98351
+457,Riverside,2021,February,7973438,98536
+458,Riverside,2021,January,7287869,78013
+459,Riverside,2021,March,9062653,125510
+460,Sacramento,2020,April,23327,869
+461,Sacramento,2020,August,426385,6437
+462,Sacramento,2020,December,1612461,22195
+463,Sacramento,2020,February,17,0
+464,Sacramento,2020,July,202602,2866
+465,Sacramento,2020,June,59694,1905
+466,Sacramento,2020,March,1791,74
+467,Sacramento,2020,May,38041,1642
+468,Sacramento,2020,November,936862,15986
+469,Sacramento,2020,October,755682,14418
+470,Sacramento,2020,September,618049,10916
+471,Sacramento,2021,April,2202102,35973
+472,Sacramento,2021,February,2530637,38570
+473,Sacramento,2021,January,2417488,33060
+474,Sacramento,2021,March,2962788,48150
+475,San Benito,2020,April,1162,58
+476,San Benito,2020,August,26373,165
+477,San Benito,2020,December,83886,685
+478,San Benito,2020,July,12964,69
+479,San Benito,2020,June,4355,60
+480,San Benito,2020,March,136,15
+481,San Benito,2020,May,1982,62
+482,San Benito,2020,November,49182,457
+483,San Benito,2020,October,43466,419
+484,San Benito,2020,September,37587,302
+485,San Benito,2021,April,130619,1369
+486,San Benito,2021,February,157298,1588
+487,San Benito,2021,January,145671,1305
+488,San Benito,2021,March,180512,1891
+489,San Bernardino,2020,April,32855,1387
+490,San Bernardino,2020,August,1256409,18272
+491,San Bernardino,2020,December,4410994,40126
+492,San Bernardino,2020,July,684747,10063
+493,San Bernardino,2020,June,245387,6906
+494,San Bernardino,2020,March,748,24
+495,San Bernardino,2020,May,109214,4526
+496,San Bernardino,2020,November,2317346,33223
+497,San Bernardino,2020,October,1850228,31461
+498,San Bernardino,2020,September,1543111,25294
+499,San Bernardino,2021,April,6451632,98645
+500,San Bernardino,2021,February,7882481,66455
+501,San Bernardino,2021,January,7538585,49028
+502,San Bernardino,2021,March,8958035,115888
+503,San Diego,2020,April,63537,1995
+504,San Diego,2020,August,1068211,19388
+505,San Diego,2020,December,3612609,38017
+506,San Diego,2020,February,20,0
+507,San Diego,2020,July,683843,14303
+508,San Diego,2020,June,304368,9876
+509,San Diego,2020,March,4747,41
+510,San Diego,2020,May,176630,7094
+511,San Diego,2020,November,2003139,28238
+512,San Diego,2020,October,1611218,26143
+513,San Diego,2020,September,1298885,22277
+514,San Diego,2021,April,6012731,79702
+515,San Diego,2021,February,7046729,84253
+516,San Diego,2021,January,6358933,63984
+517,San Diego,2021,March,8243681,107039
+518,San Francisco,2020,April,29980,481
+519,San Francisco,2020,August,253561,2197
+520,San Francisco,2020,December,600937,5318
+521,San Francisco,2020,February,62,0
+522,San Francisco,2020,July,152763,1624
+523,San Francisco,2020,June,90185,1374
+524,San Francisco,2020,March,3096,27
+525,San Francisco,2020,May,64550,1108
+526,San Francisco,2020,November,414108,4640
+527,San Francisco,2020,October,366644,3961
+528,San Francisco,2020,September,313793,2783
+529,San Francisco,2021,April,787011,11086
+530,San Francisco,2021,February,928071,10314
+531,San Francisco,2021,January,871382,7816
+532,San Francisco,2021,March,1079788,13964
+533,San Joaquin,2020,April,10753,521
+534,San Joaquin,2020,August,453565,7884
+535,San Joaquin,2020,December,1085784,17494
+536,San Joaquin,2020,July,239550,2705
+537,San Joaquin,2020,June,57954,1319
+538,San Joaquin,2020,March,1053,47
+539,San Joaquin,2020,May,21294,952
+540,San Joaquin,2020,November,717219,15006
+541,San Joaquin,2020,October,656838,14904
+542,San Joaquin,2020,September,579954,12001
+543,San Joaquin,2021,April,1560403,29188
+544,San Joaquin,2021,February,1819354,27562
+545,San Joaquin,2021,January,1718241,23462
+546,San Joaquin,2021,March,2116963,37651
+547,San Luis Obispo,2020,April,3818,27
+548,San Luis Obispo,2020,August,75243,577
+549,San Luis Obispo,2020,December,254443,1704
+550,San Luis Obispo,2020,July,36047,186
+551,San Luis Obispo,2020,June,11433,30
+552,San Luis Obispo,2020,March,631,0
+553,San Luis Obispo,2020,May,7332,31
+554,San Luis Obispo,2020,November,156921,1022
+555,San Luis Obispo,2020,October,123207,980
+556,San Luis Obispo,2020,September,99256,761
+557,San Luis Obispo,2021,April,457040,5640
+558,San Luis Obispo,2021,February,531380,5790
+559,San Luis Obispo,2021,January,459957,3934
+560,San Luis Obispo,2021,March,623279,7749
+561,San Mateo,2020,April,23533,829
+562,San Mateo,2020,August,214129,3874
+563,San Mateo,2020,December,597811,5929
+564,San Mateo,2020,July,134268,3510
+565,San Mateo,2020,June,78695,2912
+566,San Mateo,2020,March,2817,54
+567,San Mateo,2020,May,50692,2109
+568,San Mateo,2020,November,379405,4990
+569,San Mateo,2020,October,332267,4835
+570,San Mateo,2020,September,276125,4229
+571,San Mateo,2021,April,899091,12230
+572,San Mateo,2021,February,1054602,13027
+573,San Mateo,2021,January,953188,9111
+574,San Mateo,2021,March,1232019,16586
+575,Santa Barbara,2020,April,9915,107
+576,Santa Barbara,2020,August,226293,2426
+577,Santa Barbara,2020,December,436403,4499
+578,Santa Barbara,2020,July,146895,990
+579,Santa Barbara,2020,June,65125,596
+580,Santa Barbara,2020,March,524,0
+581,Santa Barbara,2020,May,39381,335
+582,Santa Barbara,2020,November,318510,3966
+583,Santa Barbara,2020,October,296724,3685
+584,Santa Barbara,2020,September,261827,3178
+585,Santa Barbara,2021,April,739872,9774
+586,Santa Barbara,2021,February,859732,10298
+587,Santa Barbara,2021,January,728736,7007
+588,Santa Barbara,2021,March,1012542,13345
+589,Santa Clara,2020,April,50477,2099
+590,Santa Clara,2020,August,434973,6686
+591,Santa Clara,2020,December,1597907,17747
+592,Santa Clara,2020,February,60,0
+593,Santa Clara,2020,January,1,0
+594,Santa Clara,2020,July,221050,5409
+595,Santa Clara,2020,June,100730,4540
+596,Santa Clara,2020,March,7305,257
+597,Santa Clara,2020,May,75932,4130
+598,Santa Clara,2020,November,868721,13447
+599,Santa Clara,2020,October,716267,11499
+600,Santa Clara,2020,September,590954,8565
+601,Santa Clara,2021,April,2555260,43795
+602,Santa Clara,2021,February,2998151,45993
+603,Santa Clara,2021,January,2764799,32632
+604,Santa Clara,2021,March,3498442,58100
+605,Santa Cruz,2020,April,2827,46
+606,Santa Cruz,2020,August,44997,189
+607,Santa Cruz,2020,December,200463,1877
+608,Santa Cruz,2020,July,21858,102
+609,Santa Cruz,2020,June,8251,89
+610,Santa Cruz,2020,March,383,3
+611,Santa Cruz,2020,May,5090,79
+612,Santa Cruz,2020,November,107313,801
+613,Santa Cruz,2020,October,82804,650
+614,Santa Cruz,2020,September,63774,237
+615,Santa Cruz,2021,April,339800,4463
+616,Santa Cruz,2021,February,398051,4684
+617,Santa Cruz,2021,January,358486,3569
+618,Santa Cruz,2021,March,467056,6044
+619,Shasta,2020,April,724,91
+620,Shasta,2020,August,15019,321
+621,Shasta,2020,December,210454,1933
+622,Shasta,2020,July,7181,202
+623,Shasta,2020,June,1978,134
+624,Shasta,2020,March,50,7
+625,Shasta,2020,May,1046,124
+626,Shasta,2020,November,101550,1146
+627,Shasta,2020,October,49106,832
+628,Shasta,2020,September,20386,414
+629,Shasta,2021,April,254176,4684
+630,Shasta,2021,February,301297,4665
+631,Shasta,2021,January,291086,3469
+632,Shasta,2021,March,346553,5897
+633,Sierra,2020,August,137,0
+634,Sierra,2020,December,645,0
+635,Sierra,2020,July,31,0
+636,Sierra,2020,June,30,0
+637,Sierra,2020,May,10,0
+638,Sierra,2020,November,322,0
+639,Sierra,2020,October,186,0
+640,Sierra,2020,September,180,0
+641,Sierra,2021,April,1116,0
+642,Sierra,2021,February,1268,0
+643,Sierra,2021,January,1115,0
+644,Sierra,2021,March,1518,0
+645,Siskiyou,2020,April,136,0
+646,Siskiyou,2020,August,3379,0
+647,Siskiyou,2020,December,29822,228
+648,Siskiyou,2020,July,1448,0
+649,Siskiyou,2020,June,539,0
+650,Siskiyou,2020,March,31,0
+651,Siskiyou,2020,May,173,0
+652,Siskiyou,2020,November,12846,30
+653,Siskiyou,2020,October,5825,0
+654,Siskiyou,2020,September,4679,0
+655,Siskiyou,2021,April,42161,413
+656,Siskiyou,2021,February,46654,369
+657,Siskiyou,2021,January,43012,383
+658,Siskiyou,2021,March,56830,447
+659,Solano,2020,April,4646,73
+660,Solano,2020,August,143634,1306
+661,Solano,2020,December,450218,2826
+662,Solano,2020,February,46,0
+663,Solano,2020,July,76654,959
+664,Solano,2020,June,23325,688
+665,Solano,2020,March,641,0
+666,Solano,2020,May,12751,435
+667,Solano,2020,November,269042,2377
+668,Solano,2020,October,217306,2290
+669,Solano,2020,September,179715,1624
+670,Solano,2021,April,696442,5245
+671,Solano,2021,February,820978,4114
+672,Solano,2021,January,754680,3337
+673,Solano,2021,March,950026,5716
+674,Sonoma,2020,April,4982,51
+675,Sonoma,2020,August,135795,1824
+676,Sonoma,2020,December,486353,5274
+677,Sonoma,2020,February,4,0
+678,Sonoma,2020,July,62168,589
+679,Sonoma,2020,June,24333,134
+680,Sonoma,2020,March,580,12
+681,Sonoma,2020,May,12071,122
+682,Sonoma,2020,November,329509,4503
+683,Sonoma,2020,October,270231,4014
+684,Sonoma,2020,September,204267,3256
+685,Sonoma,2021,April,649623,6844
+686,Sonoma,2021,February,762763,7990
+687,Sonoma,2021,January,713291,7167
+688,Sonoma,2021,March,892300,9504
+689,Stanislaus,2020,April,5515,105
+690,Stanislaus,2020,August,370292,6065
+691,Stanislaus,2020,December,949321,15638
+692,Stanislaus,2020,July,179644,2050
+693,Stanislaus,2020,June,41427,1043
+694,Stanislaus,2020,March,250,0
+695,Stanislaus,2020,May,17307,708
+696,Stanislaus,2020,November,619585,12387
+697,Stanislaus,2020,October,545572,12019
+698,Stanislaus,2020,September,478282,9530
+699,Stanislaus,2021,April,1318660,22394
+700,Stanislaus,2021,February,1512836,25152
+701,Stanislaus,2021,January,1399438,22580
+702,Stanislaus,2021,March,1787458,30164
+703,Sutter,2020,April,702,55
+704,Sutter,2020,August,34492,230
+705,Sutter,2020,December,159314,1133
+706,Sutter,2020,July,14610,128
+707,Sutter,2020,June,2881,76
+708,Sutter,2020,March,33,0
+709,Sutter,2020,May,1151,62
+710,Sutter,2020,November,74209,394
+711,Sutter,2020,October,56077,368
+712,Sutter,2020,September,47909,308
+713,Sutter,2021,April,203102,2354
+714,Sutter,2021,February,242492,2609
+715,Sutter,2021,January,232109,2305
+716,Sutter,2021,March,279311,3146
+717,Tehama,2020,April,28,5
+718,Tehama,2020,August,9695,31
+719,Tehama,2020,December,73825,948
+720,Tehama,2020,July,4055,31
+721,Tehama,2020,June,795,30
+722,Tehama,2020,May,64,31
+723,Tehama,2020,November,37885,599
+724,Tehama,2020,October,23433,238
+725,Tehama,2020,September,14690,78
+726,Tehama,2021,April,106202,1145
+727,Tehama,2021,February,124820,1391
+728,Tehama,2021,January,114091,1300
+729,Tehama,2021,March,144526,1424
+730,Trinity,2020,August,257,0
+731,Trinity,2020,December,6492,45
+732,Trinity,2020,July,104,0
+733,Trinity,2020,June,86,0
+734,Trinity,2020,May,42,0
+735,Trinity,2020,November,2451,0
+736,Trinity,2020,October,725,0
+737,Trinity,2020,September,464,0
+738,Trinity,2021,April,7140,66
+739,Trinity,2021,February,7724,140
+740,Trinity,2021,January,7945,130
+741,Trinity,2021,March,9544,117
+742,Tulare,2020,April,9810,513
+743,Tulare,2020,August,373631,6406
+744,Tulare,2020,December,841500,10723
+745,Tulare,2020,July,205587,4854
+746,Tulare,2020,June,85452,3136
+747,Tulare,2020,March,308,4
+748,Tulare,2020,May,41808,1905
+749,Tulare,2020,November,576908,9039
+750,Tulare,2020,October,529963,8565
+751,Tulare,2020,September,460180,7556
+752,Tulare,2021,April,1083922,18125
+753,Tulare,2021,February,1297657,19196
+754,Tulare,2021,January,1234937,15276
+755,Tulare,2021,March,1506778,24599
+756,Tuolumne,2020,April,57,0
+757,Tuolumne,2020,August,5063,62
+758,Tuolumne,2020,December,61900,541
+759,Tuolumne,2020,July,2680,10
+760,Tuolumne,2020,June,347,0
+761,Tuolumne,2020,March,3,0
+762,Tuolumne,2020,May,86,0
+763,Tuolumne,2020,November,17828,232
+764,Tuolumne,2020,October,7826,131
+765,Tuolumne,2020,September,6393,96
+766,Tuolumne,2021,April,89303,1398
+767,Tuolumne,2021,February,106384,1512
+768,Tuolumne,2021,January,102334,1106
+769,Tuolumne,2021,March,123954,1859
+770,Unknown,2020,April,2,3
+771,Unknown,2020,March,3,0
+772,Unknown,2020,May,2,1
+773,Ventura,2020,April,10831,347
+774,Ventura,2020,August,287187,2974
+775,Ventura,2020,December,888105,6538
+776,Ventura,2020,July,161030,1796
+777,Ventura,2020,June,52863,1197
+778,Ventura,2020,March,892,24
+779,Ventura,2020,May,24937,776
+780,Ventura,2020,November,503547,5166
+781,Ventura,2020,October,426509,4948
+782,Ventura,2020,September,358086,4057
+783,Ventura,2021,April,1760959,21839
+784,Ventura,2021,February,2101513,20644
+785,Ventura,2021,January,1778618,13073
+786,Ventura,2021,March,2444252,28734
+787,Yolo,2020,April,3223,218
+788,Yolo,2020,August,61893,1428
+789,Yolo,2020,December,202682,2993
+790,Yolo,2020,July,32450,977
+791,Yolo,2020,June,9177,720
+792,Yolo,2020,March,184,10
+793,Yolo,2020,May,5730,657
+794,Yolo,2020,November,117562,2057
+795,Yolo,2020,October,94343,1767
+796,Yolo,2020,September,80202,1608
+797,Yolo,2021,April,296740,4376
+798,Yolo,2021,February,346152,4823
+799,Yolo,2021,January,314766,4108
+800,Yolo,2021,March,406566,5908
+801,Yuba,2020,April,429,26
+802,Yuba,2020,August,23000,137
+803,Yuba,2020,December,95788,427
+804,Yuba,2020,July,7956,86
+805,Yuba,2020,June,1244,30
+806,Yuba,2020,March,38,0
+807,Yuba,2020,May,762,31
+808,Yuba,2020,November,49740,300
+809,Yuba,2020,October,39073,305
+810,Yuba,2020,September,32400,207
+811,Yuba,2021,April,133585,958
+812,Yuba,2021,February,156493,983
+813,Yuba,2021,January,146941,821
+814,Yuba,2021,March,182187,1263
