@@ -21,12 +21,12 @@ The team wrote out a list of questions that we wanted to seek from the data.
 ###### Possible Sources for Data:
 1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
-1. # https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
-	d. https://data.ca.gov/group/covid-19
-	e. https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
-	f. https://github.com/nytimes/covid-19-data
-	g. https://covidtracking.com/
-	h. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+1. https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
+1. https://data.ca.gov/group/covid-19
+1. https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+1. https://github.com/nytimes/covid-19-data
+1. https://covidtracking.com/
+1. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 
 
 The purchase_data csv was read into as a panda csv, and loaded in-memory. Next DataFrame objects were created and manipulated to customize and reshape the data sets for further analysis. Additionaly panda's cut function was utilized to separate data array elements into different bins to perform analysis on scalar data. The final information was formatted to provide a cleaner presentation. 
