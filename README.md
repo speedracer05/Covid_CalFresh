@@ -5,7 +5,7 @@
 There have been reports and studies about the impact of COVID-19, infection rates and unemployment. For our team project, we wanted to take a different approach, to understand if usage of California's CalFresh program surged as a result of increased infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at teh grocery store.   
 
 ###### Scope
-**Key assumption**: As Covid infection rates increased, so did usage of CalFresh benefits
+Key assumption: As Covid infection rates increased, so did usage of CalFresh benefits
 * Geographic coverage: California
 * Timeframe: January 2020 through February 2021
 
@@ -18,15 +18,16 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  What are the worst covid infection rates as a percentage of population? Are the counties rural, urban, or mixed?
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
-o work with disparate data sets to un:
-* Player Count
-* Purchasing Analysis (Total)
-* Gender Demographics
-* Purchasing Analysis (Gender)
-* Age Demographics
-* Top Spenders
-* Most Popular Items
-* Most Profitable Items
+###### Possible Sources for Data:
+1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
+1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
+1. # https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
+	d. https://data.ca.gov/group/covid-19
+	e. https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+	f. https://github.com/nytimes/covid-19-data
+	g. https://covidtracking.com/
+	h. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+
 
 The purchase_data csv was read into as a panda csv, and loaded in-memory. Next DataFrame objects were created and manipulated to customize and reshape the data sets for further analysis. Additionaly panda's cut function was utilized to separate data array elements into different bins to perform analysis on scalar data. The final information was formatted to provide a cleaner presentation. 
 
