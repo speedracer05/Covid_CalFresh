@@ -40,6 +40,9 @@ We found that COVID-19, initially did not have a direct impact on CalFresh usage
 ## Retrospective
 The project was fun and challenging. It was great to be able to employ the knowledge gained over the past 5-weeks. Working, watching the lines of code take shape, transforming data into visual information was intensely satisfying. Having worked on the project with a team, we learned several things, and areas that we could have improved upon. In no particular order:
 ###### Project
+> “Give me six hours to chop down a 
+> tree and I will spend the first four 
+> sharpening the axe.” – Abraham Lincoln
 1. Quickly come up with your supposition (15-20 min), explore areas of interest to help develop the key question/hypothesis that you wish to explore.
 1. Develop 5-8 supporting questions that will support the hypothesis.
 1. Review the datasets to see what data clean up needs to be done, e.g. harmonizing column names, identify data that needs str or int converted, etc.
