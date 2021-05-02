@@ -35,6 +35,8 @@ After examining several datasets, we settled on three. Subsquently, we discovere
 
 
 ## Key Takeaway
+Format: ![Alt Text]Resources/cal_covid_rate.png
+![GitHub Logo](/Resources/cal_covid_rate.png)
 We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies, which created a massive spike in unemployment, primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections, in the fall of 2020, that we see a direct correlation between increased CalFresh benefit usage and a surge in COVID cases. 
 
 ## Retrospective
