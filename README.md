@@ -43,7 +43,7 @@ The project was fun and challenging. It was great to be able to employ the knowl
 > “Give me six hours to chop down a 
 > tree and I will spend the first four 
 > sharpening the axe.” – Abraham Lincoln
-1. Quickly come up with your supposition (15-20 min), explore areas of interest to help develop the key question/hypothesis that you wish to explore.
+1. Quickly come up with your supposition, explore areas of interest to help develop the key question/hypothesis that you wish to explore.
 1. Develop 5-8 supporting questions that will support the hypothesis.
 1. Review the datasets to see what data clean up needs to be done, e.g. harmonizing column names, identify data that needs str or int converted, etc.
 1. Develop a list of actions, milestones and a timeline. Otherwise you will get into the last minute crunch of wrangling everyone's part into a coherent flow.
