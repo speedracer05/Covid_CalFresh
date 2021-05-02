@@ -44,13 +44,13 @@ The project was fun and challenging. It was great to be able to employ the knowl
 1. Develop 5-8 supporting questions that will support the hypothesis.
 1. Review the datasets to see what data clean up needs to be done, e.g. harmonizing column names, identify data that needs str or int converted, etc.
 1. Develop a list of actions, milestones and a timeline. Otherwise you will get into the last minute crunch of wrangling everyone's part into a coherent flow.
-##### Process
+###### Process
 2. One person will need to step up to help project manage otherwise time will slip away.
 3. Commit to your branch often. It's free and it'll save your butt should you or someone else makes a mistake, by being able to rollback to a prior commit.
 4. Learn bash/terminal commands to reset, revert, return to a previous commit state. https://tinyurl.com/hrejd4hw
 5. Gold for me was learning that you can do a 'git checkout x', where x can be main, your branch, someone elses branch, or even the ssh of a prior commit. 
 
-##### Would Like to...
+###### Would Like to...
 * Have understand if the later uptake of CalFresh benefits was due to exhaustion of financial resources
 * Understand the relationship of the mean income of a county versus when the uptake in CalFresh benefits started
 * Use of a heatmap to visualize the above relationship of income to CalFresh uptake
