@@ -28,7 +28,7 @@ We needed to find data that would provide infection rates, population, unemploym
 1. https://covidtracking.com/
 1. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 
-After examining several datasets, we settled on three. After further examination, we discovered that there was ALOT of data munging and clean up that had to happen in order to make it usable.  
+After examining several datasets, we settled on three. Subsquently, we discovered that there was A LOT of data munging and clean up that had to happen in order to make it usable.  
 1. CalFresh. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. US_Counties. https://github.com/nytimes/covid-19-data
 1. US Census. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
