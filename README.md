@@ -28,7 +28,11 @@ We needed to find data that would provide infection rates, population, unemploym
 1. https://covidtracking.com/
 1. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 
-After examining several datasets, we settled on three. After further examination, we discovered that there was ALOT of data munging and clean up that had to happen in order to make it usable.   
+After examining several datasets, we settled on three. After further examination, we discovered that there was ALOT of data munging and clean up that had to happen in order to make it usable.  
+1. CalFresh. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
+1. US_Counties. https://github.com/nytimes/covid-19-data
+1. US Census. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+
 
 ## Key Takeaway
 We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections that we see a direct correlation between CalFresh benefit usage and COVID cases.
