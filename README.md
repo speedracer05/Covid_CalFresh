@@ -63,7 +63,6 @@ OS: Windows_NT x64 10.0.19042
 * conda 4.10.0
 * Python 3.6.10 :: Anaconda, Inc.
 * Kite Pro Version: 1.2021.310.0
-* 
 ## Contributing
 * DeJuan Hall
 * Jackson Freese
