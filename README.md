@@ -35,18 +35,22 @@ After examining several datasets, we settled on three. Subsquently, we discovere
 
 
 ## Key Takeaway
-We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies, which created a massive spike in unemployment, primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections, in the fall of 2020, that we see a direct correlation between CalFresh benefit usage and COVID cases.
+We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies, which created a massive spike in unemployment, primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections, in the fall of 2020, that we see a direct correlation between increased CalFresh benefit usage and a surge in COVID cases. 
 
 ## Retrospective
 The project was fun and challenging. It was great to be able to employ the knowledge gained over the past 5-weeks. Working, watching the lines of code take shape, transforming data into visual information was intensely satisfying. Having worked on the project with a team, we learned several things, and areas that we could have improved upon. In no particular order:
+###### Project
 1. Quickly come up with your supposition (15-20 min), explore areas of interest to help develop the key question/hypothesis that you wish to explore.
 1. Develop 5-8 supporting questions that will support the hypothesis.
 1. Review the datasets to see what data clean up needs to be done, e.g. harmonizing column names, identify data that needs str or int converted, etc.
 1. Develop a list of actions, milestones and a timeline. Otherwise you will get into the last minute crunch of wrangling everyone's part into a coherent flow.
-1. One person will need to step up to help project manage otherwise time will slip away.
-1. Commit to your branch often. It's free and it'll save your butt should you or someone else makes a mistake, by being able to rollback to a prior commit.
-1. Learn bash/terminal commands to reset, revert, return to a previous commit state.
-1. Gold for me was learning that you can do a 'git checkout x', where x can be main, your branch, someone elses branch, or even the ssh of a prior commit. 
+##### Process
+2. One person will need to step up to help project manage otherwise time will slip away.
+3. Commit to your branch often. It's free and it'll save your butt should you or someone else makes a mistake, by being able to rollback to a prior commit.
+4. Learn bash/terminal commands to reset, revert, return to a previous commit state. https://tinyurl.com/hrejd4hw
+5. Gold for me was learning that you can do a 'git checkout x', where x can be main, your branch, someone elses branch, or even the ssh of a prior commit. 
+
+##### 
 
 ## Built With
 * Jupyter notebook Code Version: 6.0.3
