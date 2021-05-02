@@ -1,16 +1,16 @@
 # Charting Covid-19 Impact to California's Food Assistance Program (SNAP)
 
 ## Project Proposal
-For our team project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at teh grocery store. We'll take a look how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
+For our team project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at the grocery store. We'll take a look how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
 
 ###### Scope
-Key assumption: As Covid infection rates increased, so did usage of CalFresh benefits
+Key assumption: As Covid infection rates increased, so did usage of CalFresh benefits.
 * Geographic coverage: California
 * Timeframe: January 2020 through February 2021
 
 ###### Key Questions
 The team wrote out a list of questions that we wanted to seek from the data.
-*  What the 10 counties with the highest infection rates?
+*  What were the 10 counties with the highest infection rates?
 *  What was the worst affected county?
 *  What was the least affected county?
 *  What is the relationship between rural and urban infection rates?
@@ -18,7 +18,7 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
 ###### Possible Sources for Data
-We needed to find data that would provide infection rates, population, unemployment, CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigate several sources. 
+We needed to find data that would provide infection rates, population, unemployment, and CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigated several sources. 
 1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
 1. https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
@@ -36,6 +36,9 @@ After examining several datasets, we settled on three. Subsquently, we discovere
 
 ## Key Takeaway
 We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies, which created a massive spike in unemployment, primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections, in the fall of 2020, that we see a direct correlation between CalFresh benefit usage and COVID cases.
+
+## Retrospective
+The project was fun and challenging. It was great to be able to employ the knowledge gained over the past 5-weeks; to see lines of code take shape and transform data into information was intensely satisfying.
 
 ## Built With
 * Jupyter notebook Code Version: 6.0.3
