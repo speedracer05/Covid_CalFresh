@@ -4,16 +4,21 @@
 ## Project Proposal
 There have been reports and studies about the impact of COVID-19, infection rates and unemployment. For our team project, we wanted to take a different approach, to understand if usage of California's CalFresh program surged as a result of increased infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at teh grocery store.   
 
-## Questions
-The team wrote out a list of questions that we wanted to seek from the data:
-* As Covid infection rates increased, so did CalFresh enrollement
-		ii. What are the top 5 counties with the worst infection rates?
-		iii. What is the worst affected county?
-		iv. What is the least affected county
-		v. What is the correlation between infection rates and rural populations that may not wear masks?
-		vi. What is the worst covid infection rate as a percentage of population?
-		vii. Show the correlation between covid and SNAP enrollement
-to work with disparate data sets to un:
+###### Scope
+**Key assumption**: As Covid infection rates increased, so did usage of CalFresh benefits
+* Geographic coverage: California
+* Timeframe: January 2020 through February 2021
+
+###### Key Questions
+The team wrote out a list of questions that we wanted to seek from the data.
+*  What the 10 counties with the highest infection rates?
+*  What was the worst affected county?
+*  What was the least affected county?
+*  What is the relationship between rural and urban infection rates?
+*  What are the worst covid infection rates as a percentage of population? Are the counties rural, urban, or mixed?
+*  Show the correlation between COVID-19 infection rates and CalFresh usage
+
+o work with disparate data sets to un:
 * Player Count
 * Purchasing Analysis (Total)
 * Gender Demographics
