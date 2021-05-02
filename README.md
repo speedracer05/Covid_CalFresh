@@ -1,8 +1,7 @@
-# Group-Project-1 Project CalFresh
 # Charting Covid-19 Impact to California's Food Assistance Program (SNAP)
 
 ## Project Proposal
-There have been reports and studies about the impact of COVID-19, infection rates and unemployment. For our team project, we wanted to take a different approach, to understand if usage of California's CalFresh program surged as a result of increased infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at teh grocery store.   
+For our team project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program, which provides food benefits to help people purchase food at teh grocery store. We'll take a look how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
 
 ###### Scope
 Key assumption: As Covid infection rates increased, so did usage of CalFresh benefits
@@ -18,7 +17,8 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  What are the worst covid infection rates as a percentage of population? Are the counties rural, urban, or mixed?
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
-###### Possible Sources for Data:
+###### Possible Sources for Data
+We needed to find data that would provide infection rates, population, unemployment, CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigate several sources. 
 1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
 1. https://data.ca.gov/en/dataset?res_format=CSV&organization=california-employment-development-department
@@ -28,31 +28,12 @@ The team wrote out a list of questions that we wanted to seek from the data.
 1. https://covidtracking.com/
 1. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 
-
-The purchase_data csv was read into as a panda csv, and loaded in-memory. Next DataFrame objects were created and manipulated to customize and reshape the data sets for further analysis. Additionaly panda's cut function was utilized to separate data array elements into different bins to perform analysis on scalar data. The final information was formatted to provide a cleaner presentation. 
+After examining several datasets, we settled on three. After further examination, we discovered that there was ALOT of data munging and clean up that had to happen in order to make it usable.   
 
 ## Key Takeaway
-* There were 576 active customers, driving $2.4K in Total revenue, comprised of 780 purchases, with an average Sales price of $3.05.
-* Sales occured across all 179 titles, but were concentrated 
-
-Gender Demographics
-* Customer data shows a heavy slant towards male-customers, comprising 84%, while female-cstomers made up 14% of the user-base.
-* Males-buyers drive almost 83% of the revenue, but spend ~9% less than their female counterpart, $4.07 vs $4.47.
-Age Demographics
-* Further segmenation of buyers can be seen by age group. Young adults, 18-24 represent almost 50% of all users. As a group, they also represent the 2nd highest average retail revenue at $4.31. They should be defining the average retail revenue, which is $3.05 -- but they are not. Something else is at play. Further investigation needs to be conducted on the ASPs across the game portfolio
-* We should take a look at Marketing spend to concentrate more money at this user-segment.
-Top Spenders
-* We looked at the top 5 customers, in terms of Total Purchases. The spend of these customers was more than the average sales price
-Most Popular Items
-* Final Critic was by far our best seller in terms of unit count and revenue; 13 units driving $59.99 at an average sales price of $4.61
-* Nirvana was our 3rd best seller with 12 units, but at an average sales price of $4.90. This is 6% better than Final critic
-* 
-## Getting Started
-
-You will need to load the Panda script, HeroesOfPymoli_starter.ipynb into Jupyter notebook, with "purchase_data.csv". 
+We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections that we see a direct correlation between CalFresh benefit usage and COVID cases.
 
 ## Built With
-
 * Jupyter notebook Code Version: 6.0.3
 Chrome: 87.0.4280.141
 Node.js: 12.18.3
@@ -61,17 +42,12 @@ OS: Windows_NT x64 10.0.19042
 * Python 3.6.10 :: Anaconda, Inc.
 * Kite Pro Version: 1.2021.310.0
 ## Contributing
+* DeJuan Hall
+* Jackson Freese
+* Siddharth Das
 
-
-## Versioning
-
-## Authors
-
-* **John Chan**
-
-
-## License
+## Author
+* John Chan
 
 ## Acknowledgments
-
-* 
+* DeJuan did a great job in cleaning up one of the datasets, was instrumental for the other team members.
