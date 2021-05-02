@@ -50,7 +50,10 @@ The project was fun and challenging. It was great to be able to employ the knowl
 4. Learn bash/terminal commands to reset, revert, return to a previous commit state. https://tinyurl.com/hrejd4hw
 5. Gold for me was learning that you can do a 'git checkout x', where x can be main, your branch, someone elses branch, or even the ssh of a prior commit. 
 
-##### 
+##### Would Like to...
+* Have understand if the later uptake of CalFresh benefits was due to exhaustion of financial resources
+* Understand the relationship of the mean income of a county versus when the uptake in CalFresh benefits started
+* Use of a heatmap to visualize the above relationship of income to CalFresh uptake
 
 ## Built With
 * Jupyter notebook Code Version: 6.0.3
