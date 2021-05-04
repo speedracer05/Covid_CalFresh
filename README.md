@@ -3,8 +3,6 @@
 
 ## Table of contents
 * [Project Proposal](#project_proposal)
-* [Scope](#scope)
-* [Key Questions](#key_questions)
 * [Data Sources](#data_sources)
 * [Key Takeaway](#key_takeaway)
 * [Built With](#built_with)
@@ -26,7 +24,7 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  What are the worst covid infection rates as a percentage of population? Are the counties rural, urban, or mixed?
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
-###### Data Sources
+## Data Sources
 We needed to find data that would provide infection rates, population, unemployment, and CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigated several sources. 
 1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
