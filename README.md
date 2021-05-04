@@ -1,7 +1,7 @@
 # Charting Covid-19 Impact to California's Food Assistance Program
 
 
-## Table of contents
+## Table of Contents
 * [Project Proposal](#project_proposal)
 * [Data Sources](#data_sources)
 * [Key Takeaway](#key_takeaway)
