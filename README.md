@@ -1,5 +1,11 @@
 # Charting Covid-19 Impact to California's Food Assistance Program
 
+
+## Table of contents
+* [Project Proposal](#project proposal)
+* [Scope](#scope)
+* [Key Questions](#key questions)
+
 ## Project Proposal
 For our team project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. We'll take a look how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
 
