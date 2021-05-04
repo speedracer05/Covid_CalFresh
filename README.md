@@ -2,9 +2,12 @@
 
 
 ## Table of contents
-* [Project Proposal](#project proposal)
+* [Project Proposal](#project_proposal)
 * [Scope](#scope)
-* [Key Questions](#key questions)
+* [Key Questions](#key_questions)
+* [Data Sources](#data_sources)
+* [Key Takeaway](#key_takeaway)
+* [Built With](#built_with)
 
 ## Project Proposal
 For our team project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. We'll take a look how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
@@ -23,7 +26,7 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  What are the worst covid infection rates as a percentage of population? Are the counties rural, urban, or mixed?
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
-###### Possible Sources for Data
+###### Data Sources
 We needed to find data that would provide infection rates, population, unemployment, and CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigated several sources. 
 1. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
 1. https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system
@@ -43,7 +46,7 @@ After examining several datasets, we settled on three. Subsquently, we discovere
 ## Key Takeaway
 We found that COVID-19, initially did not have a direct impact on CalFresh usage. Rather, goverment containment policies, which created a massive spike in unemployment, primarily contributed to the marked increase of CalFresh usage. In fact, CalFresh usage increased with unemployment and decreased in sympathy with declining unemployment. It was only after the second-wave of infections, in the fall of 2020, that we see a direct correlation between increased CalFresh benefit usage and a surge in COVID cases. 
 
-## Retrospective
+##### Retrospective
 The project was fun and challenging. It was great to be able to employ the knowledge gained over the past 5-weeks. Working, watching the lines of code take shape, transforming data into visual information was intensely satisfying. Having worked on the project with a team, we learned several things, and areas that we could have improved upon. In no particular order:
 ###### Project
 > “Give me six hours to chop down a 
