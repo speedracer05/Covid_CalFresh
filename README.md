@@ -73,6 +73,16 @@ OS: Windows_NT x64 10.0.19042
 * conda 4.10.0
 * Python 3.6.10 :: Anaconda, Inc.
 * Kite Pro Version: 1.2021.310.0
+
+```python
+# Dependencies & Setup
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy.stats as st
+import numpy as np
+import calendar
+```
+
 ## Contributing
 * DeJuan Hall
 * Jackson Freese
