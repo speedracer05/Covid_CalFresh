@@ -7,6 +7,8 @@
 * [Key Takeaway](#key_takeaway)
 * [Built With](#built_with)
 
+
+
 ## Project Proposal
 For our project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. Three datasets were merged, munged, shaped and visualized to understand how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
 
