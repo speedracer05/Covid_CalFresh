@@ -25,7 +25,7 @@ The team wrote out a list of questions that we wanted to seek from the data.
 *  Show the correlation between COVID-19 infection rates and CalFresh usage
 
 ## Data Sources
-We needed to find data that would provide infection rates, population, unemployment, and CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigated several sources; www.cdss.ca.gov, www.data.nal.usda.gov, www.data.ca.gov, wwwfns.usda.gov, www.github.com/nytimes, www.covidtrackering.com, www.census.gov
+We needed to find data that would provide infection rates, population, unemployment, and CalFresh information. Additionally, the data had to be available by year, month, state, and county. There was no single source for the information, so we investigated several sources; www.cdss.ca.gov, www.data.nal.usda.gov, www.data.ca.gov, www.fns.usda.gov, www.github.com/nytimes, www.covidtrackering.com, www.census.gov
 
 After examining several datasets, we settled on three. Subsquently, we discovered that there was A LOT of data munging and clean up that had to happen in order to make it usable.  
 1. CalFresh. https://www.cdss.ca.gov/inforesources/research-and-data/calfresh-data-tables/dfa256
