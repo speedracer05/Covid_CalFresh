@@ -2,10 +2,10 @@
 
 
 ## Table of Contents
-* [Project Proposal](#project_proposal)
-* [Data Sources](#data_sources)
-* [Key Takeaway](#key_takeaway)
-* [Built With](#built_with)
+* [Project Proposal](#project-proposal)
+* [Data Sources](#data-sources)
+* [Key Takeaway](#key-takeaway)
+* [Built With](#built-with)
 
 
 
