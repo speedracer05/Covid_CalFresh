@@ -2,10 +2,12 @@
 
 
 ## Table of Contents
-* [Project Proposal](#project_proposal)
-* [Data Sources](#data_sources)
-* [Key Takeaway](#key_takeaway)
-* [Built With](#built_with)
+* [Project Proposal](#project-proposal)
+* [Data Sources](#data-sources)
+* [Key Takeaway](#key-takeaway)
+* [Built With](#built-with)
+
+
 
 ## Project Proposal
 For our project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. Three datasets were merged, munged, shaped and visualized to understand how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
@@ -63,7 +65,7 @@ Chrome: 87.0.4280.141
 Node.js: 12.18.3
 OS: Windows_NT x64 10.0.19042
 * conda 4.10.0
-* Python 3.6.10 :: Anaconda, Inc.
+* Python 3.6.10 Anaconda, Inc.
 * Kite Pro Version: 1.2021.310.0
 
 ```python
