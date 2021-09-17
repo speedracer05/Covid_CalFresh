@@ -1,5 +1,7 @@
 # Charting Covid-19 Impact to California's Food Assistance Program
 
+## University of California Davis Data Analytics and Visualization Boot Camp 2021
+
 
 ## Table of Contents
 * [Project Proposal](#project-proposal)
